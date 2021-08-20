@@ -1,0 +1,9 @@
+::myhellp::
+
+::"github.com/junchih/myc" ::myc
+::"github.com/junchih/my-hello-c" ::helloc
+
+N int = 1
+
+Increase (a int) int =
+	a + N
