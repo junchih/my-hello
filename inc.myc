@@ -1,7 +1,5 @@
-::myhellp::
-
-::"github.com/junchih/myc" ::myc
-::"github.com/junchih/my-hello-c" ::helloc
+::"github.com/junchih/myc" ^"master"
+::helloc ::"github.com/junchih/my-hello-c"
 
 N int = 1
 

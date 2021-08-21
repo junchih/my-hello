@@ -1,6 +1,4 @@
-::sub::
-
-::"github.com/junchih/my-hello" ::hello
+::hello ::"../"
 
 Decrease (b int) int =
 	hello::Increase(a) - 2
